@@ -1,3 +1,9 @@
+# Fork of RMStore
+This fork of the RMStore pod addresses the issue found [here](https://github.com/FredericJacobs/OpenSSL-Pod/issues/49).
+It replaces the `OpenSSL` pod with the `OpenSSL-Universal` pod.
+
+---
+
 #RMStore
 
 [![CocoaPods Version](https://cocoapod-badges.herokuapp.com/v/RMStore/badge.png)](http://cocoadocs.org/docsets/RMStore) [![Platform](https://cocoapod-badges.herokuapp.com/p/RMStore/badge.png)](http://cocoadocs.org/docsets/RMStore)
